@@ -543,8 +543,6 @@ const lessonData = [
     ["变得", "biàn de", "become", "menjadi"],
     ["有滋有味", "yǒu zī yǒu wèi", "flavorful / interesting / delicious", "berwarna-warni / sangat menarik / sedap berseri"],
     ["起来", "qǐ lái", "up", "semula"],
-    ["布局", "", "", ""],
-    ["结构", "", "", ""],
     ["。", "", "", ""],
 
     ["\n", "", "", ""], // 👈 第 11 段
@@ -560,8 +558,6 @@ const lessonData = [
     ["耶鲁大学", "yē lǔ dà xué", "Yale University", "Universiti Yale"],
     ["最年轻的", "zuì nián qīng de", "the youngest", "paling muda punya"],
     ["访问学者", "fǎng wèn xué zhě", "visiting scholar", "sarjana pelawat / pakar akademik jemputan"],
-    ["设计", "", "", ""],
-    ["结构", "", "", ""],
     ["。", "", "", ""],
     ["电话里", "diàn huà lǐ", "Over the phone", "Dalam talian telefon"],
     ["和他", "hé tā", "with him", "dengan dia"],
@@ -569,8 +565,6 @@ const lessonData = [
     ["对生活的", "duì shēng huó de", "towards life's", "terhadap kehidupan punya"],
     ["这些", "zhè xiē", "these", "semua ini"],
     ["感悟", "gǎn wù", "insights / reflections", "penghayatan / kesedaran"],
-    ["设计", "", "", ""],
-    ["结构", "", "", ""],
     ["。", "", "", ""],
     ["他", "tā", "he", "Dia"],
     ["连连称是", "lián lián chēng shì", "nodded and agreed repeatedly", "bertubi-tubi mengiyakan / bersetuju sepenuhnya"],
